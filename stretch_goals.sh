@@ -1,7 +1,7 @@
 #! /bin/bash
 
-git fetch
-git pull 
+#git fetch
+#git pull 
 
 git add .
 
